@@ -1,4 +1,4 @@
-![banner](./banner.jpg)
+![banner](https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/navendup/)
 [![Twitter](https://img.shields.io/twitter/follow/navendu_23?style=flat-square&logo=twitter)](https://twitter.com/navendu_23)
