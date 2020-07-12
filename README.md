@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-navendu--pottekkat-lightgrey?style=flat-square&logo=github)](https://www.github.com/navendu-pottekkat/)
 [![Website](https://img.shields.io/badge/Website-navendu.me-red?style=flat-square)](https://navendu.me)
 [![Medium](https://img.shields.io/badge/Medium-navendupottekkat-green?style=flat-square&logo=medium)](https://medium.com/@navendupottekkat)
-[![GitHub](https://img.shields.io/badge/Current-nsfw--filter-lightgrey?style=flat-square&logo=github)](https://www.github.com/navendu-pottekkat/nsfw-filter)
+[![GitHub](https://img.shields.io/badge/Current-nsfw--filter-lightgrey?style=for-the-badge&logo=github)](https://www.github.com/navendu-pottekkat/nsfw-filter)
 
 ### Hi there, I'm Navendu 👋
 
