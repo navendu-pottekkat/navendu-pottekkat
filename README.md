@@ -13,7 +13,7 @@ I am a **Machine Learning Engineer** working on brining Deep Learning in edge de
 
 You will find projects related to Machine Learning and Computer Vision, TensorFlow, UI builds for web and mobile in my repos. Look below to find projects that I am really proud of!
 
-### I'm currently working on...
+### I'm currently working on... 🔨
 
 [**NSFW Filter**](https://github.com/navendu-pottekkat/nsfw-filter)- A web extension that uses in-browser Machine Learning to filter out Not-Safe-For-Work images from websites. 
 
@@ -21,7 +21,7 @@ It uses a pre-trained model that checks images for NSFW content. If such content
 
 It is in beta now, feel free to [**check it out**](https://github.com/navendu-pottekkat/nsfw-filter)!
 
-### Projects I love...
+### Projects I love... 🥰
 
 [**Teachable Machine**](https://github.com/navendu-pottekkat/teachable-machine) ![Stars](https://img.shields.io/github/stars/navendu-pottekkat/teachable-machine?style=flat-square)
 
@@ -35,7 +35,7 @@ A virtual drum set built using Open CV.
 
 A UI for a food delivery app developed using Flutter for iOS and Android.
 
-### What I am upto when I am not busy trying to escape the Matrix...
+### What I am upto when I am not busy trying to escape the Matrix... 🕺
 
 You would find me with a book, playing my bass or hanging out with the squad.
 
