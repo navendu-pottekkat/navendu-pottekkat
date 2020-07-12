@@ -9,7 +9,7 @@
 
 ### Hi there, I'm Navendu 👋
 
-I am a Machine Learning Engineer working on brining Deep Learning in edge devices. I work mostly with TensorFlow, TensorFlow JS, TensorFlow Lite and Keras. Before that I used to develop apps for web and mobile.
+I am a **Machine Learning Engineer** working on brining Deep Learning in edge devices. I work mostly with TensorFlow, TensorFlow JS, TensorFlow Lite and Keras. Before that I used to develop apps for web and mobile.
 
 You will find projects related to Machine Learning and Computer Vision, TensorFlow, UI builds for web and mobile in my repos. Look below to find projects that I am really proud of!
 
@@ -40,4 +40,4 @@ A UI for a food delivery app developed using Flutter for iOS and Android.
 You would find me with a book, playing my bass or hanging out with the squad.
 
 
-Photo by Markus Spiske from Pexels
+Photo by **Markus Spiske** from **Pexels**
