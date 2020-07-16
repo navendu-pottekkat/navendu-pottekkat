@@ -15,9 +15,9 @@ You will find projects related to Machine Learning and Computer Vision, TensorFl
 
 ### Looking to write an AWESOME README??? ✍️
 
-Here is my recent article on [how to write an Awesome README](https://towardsdatascience.com/how-to-write-an-awesome-readme-68bf4be91f8b). 
+Here is my recent article on [**how to write an Awesome README**](https://towardsdatascience.com/how-to-write-an-awesome-readme-68bf4be91f8b). 
 
-The GitHub repo can be found [here](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README.md).
+The GitHub repo can be found [**here**](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README.md).
 
 ### I'm currently working on... 🔨 I NEED HELP!
 
