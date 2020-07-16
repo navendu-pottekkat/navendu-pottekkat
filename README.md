@@ -13,6 +13,12 @@ I am a **Machine Learning Engineer** working on brining Deep Learning in edge de
 
 You will find projects related to Machine Learning and Computer Vision, TensorFlow, UI builds for web and mobile in my repos. Look below to find projects that I am really proud of!
 
+### Looking to write an AWESOME README??? ✍️
+
+Here is my recent article on [how to write an Awesome README](https://towardsdatascience.com/how-to-write-an-awesome-readme-68bf4be91f8b). 
+
+The GitHub repo can be found [here](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README.md).
+
 ### I'm currently working on... 🔨 I NEED HELP!
 
 [**NSFW Filter**](https://github.com/navendu-pottekkat/nsfw-filter)- A web extension that uses in-browser Machine Learning to filter out Not-Safe-For-Work images from websites. 
