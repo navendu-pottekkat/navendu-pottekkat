@@ -1,13 +1,11 @@
 ![banner](https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/navendup/)
-[![Twitter](https://img.shields.io/twitter/follow/navendu_23?style=flat-square&logo=twitter)](https://twitter.com/navendu_23)
+[![Twitter](https://img.shields.io/twitter/follow/sudo_navendu?style=flat-square&logo=twitter)](https://twitter.com/sudo_navendu)
 [![GitHub](https://img.shields.io/badge/GitHub-navendu--pottekkat-lightgrey?style=flat-square&logo=github)](https://www.github.com/navendu-pottekkat/)
 [![Website](https://img.shields.io/badge/Website-navendu.me-red?style=flat-square)](https://navendu.me)
 [![Medium](https://img.shields.io/badge/Medium-navendupottekkat-green?style=flat-square&logo=medium)](https://medium.com/@navendupottekkat)
-[![Made with ML](https://img.shields.io/badge/Made%20with%20ML-navendu--pottekkat-blue?style=for-the-badge)](https://madewithml.com/@navendu-pottekkat/)
 </br>
-[![GitHub](https://img.shields.io/badge/Current-nsfw--filter-lightgrey?style=for-the-badge&logo=github)](https://www.github.com/navendu-pottekkat/nsfw-filter)
 
 ### Hi there, I'm Navendu 👋 I am looking for a job! 
 
