@@ -47,6 +47,7 @@ You would find me with a book, playing my bass or hanging out with the squad.
 
 ### Stats
 
-[![Navendu's github stats](https://github-readme-stats.vercel.app/api?username=navendu-pottekkat)](https://navendu.me)
+[![Navendu's github stats](https://github-readme-stats.vercel.app/api?username=navendu-pottekkat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navendu-pottekkat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Photo by **Markus Spiske** from **Pexels**
+Cover photo by **Markus Spiske** from **Pexels**
