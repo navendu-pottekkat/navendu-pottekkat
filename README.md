@@ -45,5 +45,8 @@ A UI for a food delivery app developed using Flutter for iOS and Android.
 
 You would find me with a book, playing my bass or hanging out with the squad.
 
+### Stats
+
+[![Navendu's github stats](https://github-readme-stats.vercel.app/api?username=navendu-pottekkat)](https://navendu.me)
 
 Photo by **Markus Spiske** from **Pexels**
