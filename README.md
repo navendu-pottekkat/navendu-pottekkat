@@ -25,7 +25,7 @@ The GitHub repo can be found [**here**](https://github.com/navendu-pottekkat/awe
 
 It uses a pre-trained model that checks images for NSFW content. If such content is found, it would replace those images with a random image from Unsplash.
 
-It is in beta now, feel free to [**check it out**](https://github.com/navendu-pottekkat/nsfw-filter)!
+We have just released **v1.0**, feel free to [**check it out**](https://github.com/navendu-pottekkat/nsfw-filter)!
 
 ### Projects I love... 🥰
 
