@@ -9,7 +9,7 @@
 
 ### Hi there, I'm Navendu 👋 I am looking for a job! 
 
-I am a **Machine Learning Engineer** working on brining Deep Learning in edge devices. I work mostly with TensorFlow, TensorFlow JS, TensorFlow Lite and Keras. Before that I used to develop apps for web and mobile.
+I am a **Machine Learning Engineer** working on bringing Deep Learning in edge devices. I work mostly with TensorFlow, TensorFlow JS, TensorFlow Lite and Keras. Before that I used to develop apps for web and mobile.
 
 You will find projects related to Machine Learning and Computer Vision, TensorFlow, UI builds for web and mobile in my repos. Look below to find projects that I am really proud of!
 
