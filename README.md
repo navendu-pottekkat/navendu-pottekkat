@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-navendupottekkat-green?style=flat-square&logo=medium)](https://medium.com/@navendupottekkat)
 </br>
 
-### Hi there, I'm Navendu 👋 I am looking for a job! 
+### Hi there, I'm Navendu 👋 
 
 I am a **Machine Learning Engineer** working on bringing Deep Learning in edge devices. I work mostly with TensorFlow, TensorFlow JS, TensorFlow Lite and Keras. Before that I used to develop apps for web and mobile.
 
