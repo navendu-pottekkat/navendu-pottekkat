@@ -19,13 +19,15 @@ Here is my recent article on [**how to write an Awesome README**](https://toward
 
 The GitHub repo can be found [**here**](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README.md).
 
-### I'm currently working on... 🔨 I NEED HELP!
+### I'm currently working on... 🔨 
 
 [**NSFW Filter**](https://github.com/navendu-pottekkat/nsfw-filter)- A web extension that uses in-browser Machine Learning to filter out Not-Safe-For-Work images from websites. 
 
 It uses a pre-trained model that checks images for NSFW content. If such content is found, it would replace those images with a random image from Unsplash.
 
 We have just released **v1.0**, feel free to [**check it out**](https://github.com/navendu-pottekkat/nsfw-filter)!
+
+[**learningOrchestra**](https://github.com/learningOrchestra/learningOrchestra)- Wondering how to combine your various library and infrastructure needs for your latest data mining project? Just pick the bricks to build your pipeline and learningOrchestra will take care of the rest.
 
 ### Projects I love... 🥰
 
