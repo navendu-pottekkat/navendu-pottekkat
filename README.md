@@ -11,43 +11,15 @@
 
 ### Hi there, I'm Navendu 👋 
 
-I am a **Machine Learning Engineer** working on bringing Deep Learning in edge devices. I work mostly with TensorFlow, TensorFlow JS, TensorFlow Lite and Keras. Before that I used to develop apps for web and mobile.
+Machine Learning Engineer working in Deep Learning, Computer Vision and Memristive systems.
 
-You will find projects related to Machine Learning and Computer Vision, TensorFlow, UI builds for web and mobile in my repos. Look below to find projects that I am really proud of!
+I mostly work on open-source projects in Machine Learning, Web Development and Cloud-Native Development.
 
-### Looking to write an AWESOME README??? ✍️
+I am also skilled in TensorFlow, TensorFlow JS and I am a certified Rasa Chatbot Developer.
 
-Here is my recent article on [**how to write an Awesome README**](https://towardsdatascience.com/how-to-write-an-awesome-readme-68bf4be91f8b). 
+I currently work on [Layer5](https://github.com/layer5io) mainly on [mesheryctl](https://github.com/layer5io/meshery) which is a CLI tool for Meshery built using Golang.
 
-The GitHub repo can be found [**here**](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README.md).
-
-### I'm currently working on... 🔨 
-
-[**NSFW Filter**](https://github.com/navendu-pottekkat/nsfw-filter)- A web extension that uses in-browser Machine Learning to filter out Not-Safe-For-Work images from websites. 
-
-It uses a pre-trained model that checks images for NSFW content. If such content is found, it would replace those images with a random image from Unsplash.
-
-We have just released **v1.0**, feel free to [**check it out**](https://github.com/navendu-pottekkat/nsfw-filter)!
-
-[**learningOrchestra**](https://github.com/learningOrchestra/learningOrchestra)- Wondering how to combine your various library and infrastructure needs for your latest data mining project? Just pick the bricks to build your pipeline and learningOrchestra will take care of the rest.
-
-### Projects I love... 🥰
-
-[**Teachable Machine**](https://github.com/navendu-pottekkat/teachable-machine) ![Stars](https://img.shields.io/github/stars/navendu-pottekkat/teachable-machine?style=flat-square)
-
-A teachable image classifier that runs on any browser built using TensorFlow JS.
-
-[**Virtual Drums**](https://github.com/navendu-pottekkat/virtual-drums) ![Stars](https://img.shields.io/github/stars/navendu-pottekkat/virtual-drums?style=flat-square)
-
-A virtual drum set built using Open CV.
-
-[**Food Delivery App UI**](https://github.com/navendu-pottekkat/food-delivery-app-ui) ![Stars](https://img.shields.io/github/stars/navendu-pottekkat/food-delivery-app-ui?style=flat-square)
-
-A UI for a food delivery app developed using Flutter for iOS and Android.
-
-### What I am upto when I am not busy trying to escape the Matrix... 🕺
-
-You would find me with a book, playing my bass or hanging out with the squad.
+I am learning about Memristive systems and Deep Learning on edge devices. Feel free to reach out to me at navendupottekkat@gmail.com
 
 ### Stats
 
