@@ -1,4 +1,3 @@
-<img src="" alt="" href="">
 <p align="center">
   <img src="https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.jpg" alt="banner" href="">
   <img src="https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/navendup/">
@@ -7,6 +6,18 @@
   <img src="https://img.shields.io/badge/Website-navendu.me-red?style=flat-square" alt="Website" href="https://navendu.me">
   <img src="https://img.shields.io/badge/Medium-navendupottekkat-green?style=flat-square&logo=medium" alt="Medium" href="https://medium.com/@navendupottekkat">
   </br>
+</p>
+
+<p align="center">
+  <p align="center">
+    If you like my work, please consider supporting me by <a href="https://www.patreon.com/navendu">becoming a Patron</a>.
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" href="https://www.patreon.com/navendu">
+  </p>
+  <p align="center">
+    This will help me to contribute more to open-source and the community.
+  </p>
 </p>
 
 ### Hi there, I'm Navendu 👋 
