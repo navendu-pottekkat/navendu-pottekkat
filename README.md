@@ -12,7 +12,7 @@
   <p align="center">
     If you like my work, please consider supporting me by <a href="https://www.patreon.com/navendu">becoming a Patron</a>.
   </p>
-  <p align="center">
+  <p align="center" href="https://www.patreon.com/navendu">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" href="https://www.patreon.com/navendu">
   </p>
   <p align="center">
