@@ -13,7 +13,9 @@
     If you like my work, please consider supporting me by <a href="https://www.patreon.com/navendu">becoming a Patron</a>.
   </p>
   <p align="center" href="https://www.patreon.com/navendu">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" href="https://www.patreon.com/navendu">
+    <a href="https://www.patreon.com/navendu">
+      <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" href="https://www.patreon.com/navendu">
+    </a>
   </p>
   <p align="center">
     This will help me to contribute more to open-source and the community.
