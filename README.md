@@ -30,7 +30,7 @@ I mostly work on open-source projects in Machine Learning, Web Development and C
 
 I am also skilled in TensorFlow, TensorFlow JS and I am a certified Rasa Chatbot Developer.
 
-I currently work on [Layer5](https://github.com/layer5io) mainly on [mesheryctl](https://github.com/layer5io/meshery) which is a CLI tool for Meshery built using Golang.
+I currently work with [Layer5](https://github.com/layer5io) mainly on [mesheryctl](https://github.com/layer5io/meshery) which is a CLI tool for Meshery built using Golang.
 
 I am learning about Memristive systems and Deep Learning on edge devices. Feel free to reach out to me at navendupottekkat@gmail.com
 
