@@ -24,9 +24,7 @@
 
 ### Hi there, I'm Navendu 👋 
 
-Machine Learning Engineer working in Deep Learning, Computer Vision and Memristive systems.
-
-I mostly work on open-source projects in Machine Learning, Web Development and Cloud-Native Development.
+Engineer working in Machine Learning, Memristive Systems, Service Meshes and everything inbetween.
 
 I am also skilled in TensorFlow, TensorFlow JS and I am a certified Rasa Chatbot Developer.
 
