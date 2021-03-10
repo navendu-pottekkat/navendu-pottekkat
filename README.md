@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.jpg" alt="banner" href="">
+  <a href="https://navendu.me"><img src="https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.jpg" alt="banner" href=""></a>
   <a href="https://www.linkedin.com/in/navendup/"><img src="https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/navendup/"></a>
   <a href="https://twitter.com/sudo_navendu"><img src="https://img.shields.io/twitter/follow/sudo_navendu?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/sudo_navendu"></a>
   <a href="https://www.github.com/navendu-pottekkat/"><img src="https://img.shields.io/badge/GitHub-navendu--pottekkat-lightgrey?style=flat-square&logo=github" alt="GitHub" href="https://www.github.com/navendu-pottekkat/"></a>
