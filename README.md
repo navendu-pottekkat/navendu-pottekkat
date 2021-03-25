@@ -28,7 +28,7 @@ Engineer working in Machine Learning, Memristive Systems, Service Meshes and eve
 
 I am also skilled in TensorFlow, TensorFlow JS and I am a certified Rasa Chatbot Developer.
 
-I currently work with [Layer5](https://github.com/layer5io) mainly on [mesheryctl](https://github.com/layer5io/meshery) which is a CLI tool for Meshery built using Golang.
+Currently, I maintain [Meshery](https://github.com/layer5io/meshery) @ [Layer5](https://github.com/layer5io) and I'm also the creator and a maintainer of [NSFW Filter](https://github.com/nsfw-filter/nsfw-filter).
 
 I am learning about Memristive systems and Deep Learning on edge devices. Feel free to reach out to me at navendupottekkat@gmail.com
 
