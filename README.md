@@ -26,9 +26,7 @@
 
 Engineer working in Machine Learning, Memristive Systems, Service Meshes and everything inbetween.
 
-I am also skilled in TensorFlow, TensorFlow JS and I am a certified Rasa Chatbot Developer.
-
-Currently, I maintain [Meshery](https://github.com/layer5io/meshery) @ [Layer5](https://github.com/layer5io) and I'm also the creator and a maintainer of [NSFW Filter](https://github.com/nsfw-filter/nsfw-filter).
+Currently, I maintain [Meshery](https://github.com/meshery/meshery) and [Service Mesh Performance](https://github.com/service-mesh-performance/service-mesh-performance) @ [Cloud Native Computing Foundation](https://www.cncf.io/) and I'm also the creator and a maintainer of [NSFW Filter](https://github.com/nsfw-filter/nsfw-filter).
 
 I am learning about Memristive systems and Deep Learning on edge devices. 
 
